@@ -1,7 +1,7 @@
 {
 	"name": "Dump The Guardian",
 	"description": "Divest clicks from the Daily Antisocialist",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"manifest_version": 2,
 	"background" : {
 		"scripts" : [

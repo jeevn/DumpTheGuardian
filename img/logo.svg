@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg36"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"
+   xml:space="preserve"
+   version="1.1"
+   viewBox="0 0 6851 6851"
+   height="100%"
+   width="100%"><metadata
+   id="metadata42"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs40" />
+    <g
+   transform="matrix(1,0,0,1,-118.11,-118.11)"
+   id="Artboard1">
+        <rect
+   id="rect10"
+   style="fill:none;"
+   height="6850.39"
+   width="6850.39"
+   y="118.11"
+   x="118.11" />
+        <clipPath
+   id="_clip1">
+            <rect
+   id="rect12"
+   height="6850.39"
+   width="6850.39"
+   y="118.11"
+   x="118.11" />
+        </clipPath>
+        <g
+   id="g33"
+   clip-path="url(#_clip1)">
+            <g
+   id="g31"
+   transform="matrix(1,0,0,1,0.110236,0.110236)">
+                <circle
+   id="circle15"
+   style="fill:rgb(204,51,51);"
+   r="3425.2"
+   cy="3543.31"
+   cx="3543.31" />
+                <g
+   id="g19"
+   transform="matrix(0.758621,0,0,0.758621,855.281,855.281)">
+                    <circle
+   id="circle17"
+   r="3425.2"
+   cy="3543.31"
+   cx="3543.31" />
+                </g>
+                <path
+   id="path21"
+   style="fill:white;stroke:black;stroke-width:1px;"
+   d="M3918.5,3579.55L5055.12,3590.55L5055.12,3637.8L4818.9,3779.53L4818.9,4913.39C4818.9,4913.39 4506.53,5166.75 4346.46,5244.09C4145.1,5341.39 3921.26,5385.83 3921.26,5385.83L3918.5,3579.55Z" />
+                <path
+   id="path23"
+   style="fill:white;stroke:black;stroke-width:1px;"
+   d="M3921.26,1594.54L3921.26,1718.03L4734.41,2787.4L4818.9,2787.4L4818.9,2031.5C4818.9,2031.5 4619.97,1850.68 4393.7,1748.03C4219.9,1669.18 3921.26,1594.54 3921.26,1594.54Z" />
+                <path
+   id="path25"
+   style="fill:white;stroke:black;stroke-width:1px;"
+   d="M3637.8,1583.54L3637.8,1653.54C3637.8,1653.54 2747.4,1643.02 2747.4,3543.31C2747.4,5378.05 3637.8,5338.58 3637.8,5338.58L3637.8,5433.07C3637.8,5433.07 1700.79,5471.83 1700.79,3543.31C1700.79,1497.27 3637.8,1583.54 3637.8,1583.54Z" />
+                <g
+   id="g29"
+   transform="matrix(0.98454,-0.98454,0.707107,0.707107,-2450.72,4526.34)">
+                    <rect
+   id="rect27"
+   style="fill:rgb(204,51,51);"
+   height="5480.32"
+   width="755.906"
+   y="803.15"
+   x="3165.35" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
