@@ -1,0 +1,6 @@
+html, #js-context, .sp-message-open, html.sp-message-open {
+	position: static !important;
+	overflow: scroll !important;
+	overflow-x: scroll !important;
+	overflow-y: scroll !important;
+}
