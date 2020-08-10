@@ -14,7 +14,7 @@ One of two methods is required depending on your browser engine.
 
 For Chromium-compatible browsers, you can load directly from source.
 
-1. Download the Source folder from the Releases page.
+1. Download the **Source code** folder from [Releases](https://github.com/jeevn/DumpTheGuardian/releases).
 2. In your browser, go to the *Extensions* settings.
 3. Find and enable the *Developer Mode* toggle.
 4. Click the *Load Unpacked* button.
@@ -24,7 +24,7 @@ For Chromium-compatible browsers, you can load directly from source.
 
 Since Gecko-based browsers require signing, a packaged version is provided.
 
-1. Download the .xpi file from the Releases page.
+1. Download the **.xpi** file from [Releases](https://github.com/jeevn/DumpTheGuardian/releases).
 2. In Firefox/Tor, go to *Tools* > *Add-ons*
 3. From the gear menu, select *Install Add-on from file…*
 4. In the dialog, select the `.xpi` file, open, and enjoy.
