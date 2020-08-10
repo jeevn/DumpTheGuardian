@@ -30,15 +30,12 @@ Since Gecko-based browsers require signing, a packaged version is provided.
 4. In the dialog, select the `.xpi` file, open, and enjoy.
 
 
-
 Additional notes for devs
 =========================
 
 When signing with `web-ext`, use the option `--config=cfg.js` to exclude non-dependencies.
 
 Icon PNGs are generated automatically from the SVG using the `mkicns.rb` helper script. (Requires `inkscape` CLI, available via `brew`.)
-
-
 
 
 
