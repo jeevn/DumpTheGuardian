@@ -1,6 +1,6 @@
-This Web Extension automatically redirects Guardian URLs to Web Archive captures via [fivefilters.org](https://theguardian.fivefilters.org/how-to-share/). The reasons for doing this are detailed there and elsewhere; antisocialist propaganda endemic in liberal media is arguably worse than that of the overtly rightwing press, as it gatekeeps the ‘left’ boundary of, as Chomsky calls it, the ‘acceptable spectrum’.
+This Web Extension automatically redirects Guardian URLs to Web Archive captures via [fivefilters.org](https://theguardian.fivefilters.org/how-to-share/). (The reasons for doing this are detailed there and elsewhere; antisocialist propaganda endemic in liberal media is arguably worse than that of the overtly rightwing press, as it gatekeeps the ‘left’ boundary of, as Chomsky calls it, the ‘acceptable spectrum’.)
 
-It also deals with some scroll-blocking issues thrown up by Web Archive. As it happens, [dumptheguardian.com](http://dumptheguardian.com) has now switched to AMP captures which fixes this for most standard articles, but the injected stylesheet is included here anyway.
+The extension also fixes some scroll-blocking issues thrown up by Web Archive. As it happens, [dumptheguardian.com](http://dumptheguardian.com) has now switched to AMP captures which fixes this for most standard articles, but the injected stylesheet is included here anyway.
 
 It should work in (desktop) Chrome, Firefox, Edge, Tor and Opera.
 
